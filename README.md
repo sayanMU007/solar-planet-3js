@@ -41,7 +41,9 @@
 
 | Solar System View | Zoomed-In View |
 |-------------------|----------------|
-| ![ss1](assets/screenshot1.png) | ![ss2](assets/screenshot2.png) |
+| ![ss1]![Screenshot (57)](https://github.com/user-attachments/assets/02be9ba7-6a8d-4159-b6d0-0e28fa7a6879)
+ | ![ss2] ![Screenshot (58)](https://github.com/user-attachments/assets/6b2092f4-7035-41b4-a7c0-eaa51f77a898)
+|
 
 ---
 

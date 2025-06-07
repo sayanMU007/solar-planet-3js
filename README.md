@@ -78,14 +78,12 @@ open index.html  # Or use Live Server in VS Code
 
 
 🌐 Live Demo
-
+sayanmu007.github.io/solar-planet-3js/
 
 🙌 Author
 Sayan Mukherjee
 
-🧑‍💻 Portfolio
-
-🐙 GitHub
+🐙 GitHub : 
 
 📧 mukherjeesayan731@gmail.com
 

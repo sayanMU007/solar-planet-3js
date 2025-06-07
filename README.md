@@ -83,7 +83,7 @@ sayanmu007.github.io/solar-planet-3js/
 🙌 Author
 Sayan Mukherjee
 
-🐙 GitHub : 
+🐙 GitHub : https://github.com/sayanMU007
 
 📧 mukherjeesayan731@gmail.com
 

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>3D Solar System Simulation</title>
+</head>
+<body>
+    <div id="canvas-container">
+        <div class="loading" id="loading">
+            <div class="spinner"></div>
+            <div>Loading Solar System...</div>
+        </div>
+        
+        <div class="control-panel">
+            <div class="panel-header">🚀 Solar System Controls</div>
+            
+            <div class="control-buttons">
+                <button class="btn pause" id="pauseBtn">⏸️ Pause</button>
+                <button class="btn theme-toggle" id="themeBtn">🌙 Dark</button>
+            </div>
+            
+            <div id="planet-controls"></div>
+            
+            <div style="margin-top: 20px; padding-top: 15px; border-top: 1px solid rgba(255,255,255,0.2);">
+                <div style="font-size: 12px; opacity: 0.8;">
+                    💡 Click and drag to rotate view<br>
+                    🔍 Scroll to zoom in/out<br>
+                    🖱️ Hover over planets for info
+                </div>
+            </div>
+        </div>
+        
+        <div class="info-panel" id="infoPanel">
+            <div style="font-weight: bold; margin-bottom: 10px;">🌟 Solar System Info</div>
+            <div id="planetInfo">Hover over a planet to see details</div>
+        </div>
+        
+        <div class="tooltip" id="tooltip"></div>
+    </div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<script src="solar-system.js"></script>
+
+</body>
+</html>
